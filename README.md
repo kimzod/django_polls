@@ -1,7 +1,7 @@
 # django_polls
  django 튜토리얼 polls app 
 
-#1. polls index
+1. polls index
 
 ![index](https://user-images.githubusercontent.com/51065991/62676612-6931d180-b9e6-11e9-9c73-3c99b02f3c4a.jpg)
 
